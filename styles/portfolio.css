@@ -183,3 +183,7 @@ footer input[type="text"], footer input[type="email"], footer textarea{
     margin-bottom: 24px;
     border: none;
 }
+.footer-coloumn-title{
+    font-size: 35px;
+    font-weight: bold;
+}
